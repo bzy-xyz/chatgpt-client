@@ -1,0 +1,3 @@
+appdirs
+openai
+wxPython
